@@ -1,0 +1,1 @@
+The actual binary files for the voxelized phantoms can be found at this github link: https://github.com/xcist/phantoms-voxelized/tree/main 

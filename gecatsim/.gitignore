@@ -6,6 +6,16 @@ __pycache__/
 *$py.class
 *.o
 
+# Specific examples in molloi lab
+examples-molloilab/Adult_Female_50percentile_Chest_Phantom_slab_400_1650x1050x1/*.density_*
+
+examples-molloilab/*.air
+examples-molloilab/*.offset
+examples-molloilab/*.scan
+examples-molloilab/*.prep
+examples-molloilab/*.recon
+examples-molloilab/*.raw
+
 # Simulated data in examples
 examples/*.air
 examples/*.offset
