@@ -1,0 +1,18 @@
+# Material name:
+# Gammex472_I_7.5
+
+# Number of elements:
+8
+
+# Density (g/cm³):
+1.03
+
+# Atomic number(s) and corresponding mass fraction(s):
+1    0.0859    # hydrogen
+6    0.6924    # carbon
+7    0.0213    # nitrogen
+8    0.1736    # oxygen
+12   0.0003    # magnesium
+17   0.0013    # chlorine
+20   0.0180    # calcium
+53   0.0073    # iodine

@@ -1,0 +1,17 @@
+# Material name:
+# Gammex472_Ca_50
+
+# Number of elements:
+7
+
+# Density (g/cm³):
+1.17
+
+# Atomic number(s) and corresponding mass fraction(s):
+1    0.0710    # hydrogen
+6    0.6266    # carbon
+7    0.0270    # nitrogen
+8    0.2308    # oxygen
+12   0.0007    # magnesium
+17   0.0012    # chlorine
+20   0.0427    # calcium
