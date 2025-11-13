@@ -7,3 +7,5 @@ This toolkit includes software developed by Members of the Geant4 Collaboration 
 For more information such as installation, examples, please visit: [github.com/xcist/documentation/wiki/Home](https://github.com/xcist/documentation/wiki)
 
 Please consider citing our papers if this package is useful to your research/work. A list of our publications is here: https://github.com/xcist/documentation/wiki/Publications-and-citing
+
+Current scripts are saved in main/gecatsim/examples-molloilab
