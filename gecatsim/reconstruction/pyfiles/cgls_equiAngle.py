@@ -3,7 +3,6 @@
 import numpy as np
 from gecatsim.pyfiles.C_DD3Proj import DD3Proj
 from gecatsim.pyfiles.C_DD3Back import DD3Back
-from gecatsim.pyfiles.C_DD3WBack import DD3WBack
 from gecatsim.reconstruction.pyfiles.mapConfigVariablesToFDK import mapConfigVariablesToFDK
 
 """
